@@ -1,0 +1,6 @@
+/week6
+__pycache__
+.env 
+migrations
+.vscode
+
